@@ -53,4 +53,4 @@ jobs:
 
     steps:     
       - name: Run Deployment Script
-        run: echo "Deployment Finished....."
+        run: echo "Deployment done....."
